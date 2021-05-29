@@ -18,6 +18,6 @@ print(type(str2),len(str2));
 # 定义一个非空字符串
 str3 = "hello_python";
 print(type(str3), len(str3));
-
+print(str3);
 
 
