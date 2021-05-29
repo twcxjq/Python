@@ -14,4 +14,3 @@ str2 = "";
 # 查看字符串长度 len(对象)
 print(type(str1),len(str1));
 print(type(str2),len(str2));
-
