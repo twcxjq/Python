@@ -1,14 +1,9 @@
 # -*- coding:utf8 -*- #
 # -----------------------------------------------------------------------------------
 # ProjectName:   python_29
-# FileName:     __init__.py
+# FileName:     py_set
 # Author:      TianChangJun
-# Datetime:    2021/5/31 9:18
+# Datetime:    2021/5/31 16:35
 # Description：
 # -----------------------------------------------------------------------------------
-
-list1 = [1, 2]
-print(len(list1))
-list1.insert(2, 3)   # 当索引大于列表最大索引时，会将插入的元素放在列表的末尾，不报错
-print(list1)
 

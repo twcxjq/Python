@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e0ff46d-8e1e-48a2-88da-b19b4574fde4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day3_20210531/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day3_20210531/py_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_20210531/homework_tcj_20210531.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_20210531/py_bool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_20210531/py_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_20210531/py_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2_20210528/py_tz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_20210528/py_tz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3_20210531/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_20210531/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3_20210531/py_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_20210531/py_tuple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day3_20210531/py_tuple.py">
+        <entry file="file://$PROJECT_DIR$/Day3_20210531/py_dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="420">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
             </state>
           </provider>
         </entry>
@@ -51,8 +56,13 @@
         <option value="$PROJECT_DIR$/Day2_20210528/homework_tcj_20210528.py" />
         <option value="$PROJECT_DIR$/Day2_20210528/py_str.py" />
         <option value="$PROJECT_DIR$/Day2_20210528/py_list.py" />
-        <option value="$PROJECT_DIR$/Day3_20210531/py_tuple.py" />
         <option value="$PROJECT_DIR$/Day3_20210531/__init__.py" />
+        <option value="$PROJECT_DIR$/Day3_20210531/py_tuple.py" />
+        <option value="$PROJECT_DIR$/Day2_20210528/py_tz.py" />
+        <option value="$PROJECT_DIR$/Day3_20210531/py_set.py" />
+        <option value="$PROJECT_DIR$/Day3_20210531/py_bool.py" />
+        <option value="$PROJECT_DIR$/Day3_20210531/py_dict.py" />
+        <option value="$PROJECT_DIR$/Day3_20210531/homework_tcj_20210531.py" />
       </list>
     </option>
   </component>
@@ -79,6 +89,11 @@
             <path>
               <item name="python_29" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Day2_20210528" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_29" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_29" type="462c0819:PsiDirectoryNode" />
               <item name="Day3_20210531" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -90,7 +105,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,7 +119,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.py_tuple">
+  <component name="RunManager" selected="Python.homework_tcj_20210531">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_29" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day3_20210531" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day3_20210531/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hello_python" type="PythonConfigurationType" factoryName="Python">
       <module name="python_29" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_tcj_20210528" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="homework_tcj_20210531" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_29" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day2_20210528" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day3_20210531" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day2_20210528/homework_tcj_20210528.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day3_20210531/homework_tcj_20210531.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="py_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_29" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,53 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day2_20210528" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day3_20210531" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day2_20210528/py_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="py_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_29" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day2_20210528" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day2_20210528/py_num.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="py_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_29" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day2_20210528" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day2_20210528/py_str.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day3_20210531/py_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,21 +225,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="py_tz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_29" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day2_20210528" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day2_20210528/py_tz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.hello_python" />
-      <item itemvalue="Python.py_num" />
-      <item itemvalue="Python.py_str" />
-      <item itemvalue="Python.homework_tcj_20210528" />
-      <item itemvalue="Python.py_list" />
       <item itemvalue="Python.py_tuple" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.py_tz" />
+      <item itemvalue="Python.py_dict" />
+      <item itemvalue="Python.homework_tcj_20210531" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework_tcj_20210531" />
+        <item itemvalue="Python.py_dict" />
+        <item itemvalue="Python.py_tz" />
         <item itemvalue="Python.py_tuple" />
-        <item itemvalue="Python.py_list" />
-        <item itemvalue="Python.py_str" />
-        <item itemvalue="Python.homework_tcj_20210528" />
-        <item itemvalue="Python.py_num" />
+        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622358814505</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="python_29_这是py.tuple文件">
+      <created>1622429008074</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622429008074</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -323,20 +345,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32125205" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39687055" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39687055" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49776787" weight="0.32125205" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49925596" weight="0.3261944" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32784185" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.3261944" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50223213" side_tool="true" weight="0.3261944" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32784185" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -392,7 +415,8 @@
     <MESSAGE value="python_29第三次提交" />
     <MESSAGE value="python_29_py_str_这是字符串的练习" />
     <MESSAGE value="python_29_这是py.list文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="python_29_这是py.list文件" />
+    <MESSAGE value="python_29_这是py.tuple文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="python_29_这是py.tuple文件" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/keyword.py" />
@@ -457,29 +481,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_20210528/py_tz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1229051315/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day3_20210531/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day3_20210531/py_tuple.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2_20210528/py_tz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#608#802#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_20210531/py_bool.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_20210531/py_set.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1229051315/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="3724" column="8" selection-start-line="3724" selection-start-column="8" selection-end-line="3724" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test0414/4组/2021.05.31/wangting_531.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1794" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_20210531/homework_tcj_20210531.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2634">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_20210531/py_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
     </entry>
