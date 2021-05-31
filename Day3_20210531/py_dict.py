@@ -97,6 +97,21 @@ for item in dict3:
 for k in dict3.keys():
     print(k)
 
+dict4 = {"赵敏": 18, "小昭": 17, "周芷若": 16}
+# for name, age in dict4.items():
+    # print("张无忌的老婆叫{},今年{}岁了".format(name, age))
+    # print("张无忌的老婆叫%s,今年%d岁了"%(name, age))
+
+# print("老王的女朋友叫%(name)s,今年%(age)d岁了"%({"name": "小花", "age": 19}))
+
+print("老王的女朋友叫{},今年{}岁了".format("小花", 19))
+print("老王的女朋友叫{name},今年{age}岁了".format(name = "小花", age = 19))
+
+dict5 = {"name": "小花", "age": 20}   # **表示解包字典   *表示解包元组
+print("老王的女朋友叫{name},今年{age}岁了".format(**dict5))
+
+list1 = ["小花", 12]
+print("老王的女朋友叫{0[0]},今年{0[1]}岁了".format(list1))
 
 
 

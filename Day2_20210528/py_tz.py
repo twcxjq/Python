@@ -81,5 +81,10 @@ for item in list_number2:
 """
 # 创建一个空列表
 list_number3 = []
+for item in range(3, 31):
+    if item % 3 == 0:
+        list_number3.append(item)
+for item in list_number3:
+    print(item)
 
 
