@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e0ff46d-8e1e-48a2-88da-b19b4574fde4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day3_20210531/homework_tcj_20210531.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day3_20210531/py_bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day3_20210531/py_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day3_20210531/py_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2_20210528/py_tz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_20210528/py_tz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3_20210531/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_20210531/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day3_20210531/py_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3_20210531/py_tuple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day3_20210531/py_dict.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="99" selection-start-line="99" selection-end-line="99" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -105,7 +88,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -331,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622429008074</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="python_29第五次提交">
+      <created>1622464927641</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622464927642</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -345,9 +335,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -416,7 +405,8 @@
     <MESSAGE value="python_29_py_str_这是字符串的练习" />
     <MESSAGE value="python_29_这是py.list文件" />
     <MESSAGE value="python_29_这是py.tuple文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="python_29_这是py.tuple文件" />
+    <MESSAGE value="python_29第五次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="python_29第五次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/keyword.py" />
@@ -537,7 +527,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day3_20210531/py_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="339">
           <caret line="99" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
