@@ -119,14 +119,14 @@ import random
 """
 6、打印九九乘法表（方法不限）
 """
-# list_num1, list_num2 = [1, 2, 3, 4, 5, 6, 7, 8, 9], [1, 2, 3, 4, 5, 6, 7, 8, 9]
-# for num1 in list_num1:
-#     for num2 in list_num2:
-#         if num1 % 2 != 0:
-#             if num2 != 9:
-#                 print("{}X{}={}".format(num1, num2, num1 * num2))
-#             else:
-#                 print("{}X{}={}".format(num1, num2, num1 * num2), end=" ")
-#
-#         elif num1 % 2 == 0:
-#             print("{}X{}={}".format(num1, num2, num1 * num2), end=" ")
+for num1 in range(1, 10):
+    for num2 in range(1, num1 + 1):
+        print("{}X{}={}".format(num2, num1, num1 * num2), end="\t")
+    print()
+
+
+
+
+
+
+

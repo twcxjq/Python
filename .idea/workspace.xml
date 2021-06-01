@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e0ff46d-8e1e-48a2-88da-b19b4574fde4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day4_20210601/homework_tcj_20210601.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4_20210601/py_def.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4_20210601/py_diao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4_20210601/py_while.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day4_20210601/homework_tcj_20210601.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day4_20210601/homework_tcj_20210601.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day4_20210601/homework_tcj_20210601.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="132" selection-start-line="132" selection-end-line="132" />
+            <state relative-caret-position="393">
+              <caret line="124" column="11" lean-forward="true" selection-start-line="124" selection-start-column="11" selection-end-line="124" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -381,7 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622510025337</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="python_29_Day4_20210601_1">
+      <created>1622550275267</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622550275267</updated>
+    </task>
+    <task id="LOCAL-00012" summary="python_29_Day4_20210601_2">
+      <created>1622550303217</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622550303217</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -395,9 +406,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -468,7 +478,9 @@
     <MESSAGE value="python_29_这是py.tuple文件" />
     <MESSAGE value="python_29第五次提交" />
     <MESSAGE value="python_29_Day4_20210601" />
-    <option name="LAST_COMMIT_MESSAGE" value="python_29_Day4_20210601" />
+    <MESSAGE value="python_29_Day4_20210601_1" />
+    <MESSAGE value="python_29_Day4_20210601_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="python_29_Day4_20210601_2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/keyword.py" />
@@ -617,8 +629,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day4_20210601/homework_tcj_20210601.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        <state relative-caret-position="393">
+          <caret line="124" column="11" lean-forward="true" selection-start-line="124" selection-start-column="11" selection-end-line="124" selection-end-column="11" />
         </state>
       </provider>
     </entry>
