@@ -74,7 +74,6 @@ from collections.abc import Iterable
 print(isinstance(num, Iterable))
 print(isinstance(name, Iterable))
 
-# print(sum(list(range(1,1000000001))))
-print(sum(iter(range(1,1000000001))))
+
 
 
