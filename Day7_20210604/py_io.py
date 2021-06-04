@@ -13,7 +13,7 @@ import os
 for i in os.listdir(r"c:\\"):
     print(i)
 
-# 打开文件
+# 读取文件
 f1 = open(r"c:\text11.txt", mode="r")
 # 读取内容
 data = f1.read()
