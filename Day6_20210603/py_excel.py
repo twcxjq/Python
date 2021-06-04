@@ -7,6 +7,7 @@
 # Description：
 # -----------------------------------------------------------------------------------
 
+'''
 from openpyxl import Workbook
 import datetime
 
@@ -55,3 +56,74 @@ for i in data:
 
 # 保存
 wb.save(r"c:\test12.xlsx")
+'''
+
+
+"""
+# 批量向excel添加数据
+
+from openpyxl import Workbook
+
+# 实例化对象,作用是打开excel文件
+wb = Workbook()
+# 选择sheet页,默认
+# get_sheet = wb.active
+# 指定shee页和设置sheet页名字
+get_sheet = wb.create_sheet("名单", 2)
+# 获取文件路径，并打开文件
+with open(r"D:\文件\QQ下载\test.txt") as f1:
+    data = f1.read()  # 读取文件内容，内容是字符串
+    # print(type(data), data)
+    list_data = eval(data)    # 将字符串转换成列表
+    for i in list_data:
+        get_sheet.append(i)   # append()方法中的参数: Value must be a list, tuple, range or generator, or a dict
+# 保存
+wb.save("test11.xlsx")
+"""
+
+# 批量读取excel文件中的数据
+
+"""
+import openpyxl
+
+# 打开文件
+wb = openpyxl.load_workbook(r"D:\下载\QQ下载\计科2班软件工程分组名单.xlsx")
+# 选择sheet页
+get_sheet = wb["分组"]
+# 第一个for循环的是一行的数据，以元组的形式存在
+for hang_tuple in get_sheet:
+    # 第二个for循环的是单元格的内容
+    for i in hang_tuple:
+        # print(i.row, i.column, i.value)
+        # print(i.coordinate, i.value)
+        if i.value != None:
+            print(i, i.value)
+"""
+
+import openpyxl
+
+# 打开文件
+wb = openpyxl.load_workbook(r"D:\下载\QQ下载\计科2班软件工程分组名单.xlsx")
+# 选择sheet页
+get_sheet = wb["分组"]
+# 第一个for循环的是一行的数据，以元组的形式存在
+all_list = []
+for hang_tuple in get_sheet:
+    # 第二个for循环的是单元格的内容
+    list_22 = []
+    for i in hang_tuple:
+        # print(i.row, i.column, i.value)
+        # print(i.coordinate, i.value)
+        if i.value != None:
+            # print(i, i.value)
+            a = i.value
+            # print(a)
+            list_22.append(a)
+    all_list.append(list_22)
+    print(list_22)
+print(all_list)
+
+
+
+
+

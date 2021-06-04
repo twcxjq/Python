@@ -25,4 +25,27 @@ import shutil
 print(os.path.isdir(r"c:\hello"))
 # 判断文件是否存在(判断是否是文件)
 print(os.path.isfile(r"c:\mingdan.txt"))
+# 判断文件或者文件夹是否存在(判断是否是文件夹或者文件)
+print(os.path.exists(r"c:\hello"))
+print(os.path.exists(r"c:\mingdan.txt"))
+
+# 打印平台信息 nt 表示win32
+print(os.name)
+
+import  sys
+print(sys.platform)
+# 打印id
+print(os.getpid())
+# 获取当前路径
+print(os.getcwd())
+
+# 路径拼接
+path1 = os.getcwd()
+path2 = "\py_os.py"
+path3 = "py_os.py"
+print(path1 + path2)
+print(os.path.join(path1, path3))
+
+
+
 

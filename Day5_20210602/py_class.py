@@ -27,6 +27,8 @@ class Person:
         print("跑的飞快,速度{}迈,她今年{}岁了".format(shudu, self.age))  # 同一个类中,调用公有变量age，使用self
         self._speak("add")
 
+if __name__ == '__main__':
+    print("当前模块的名字是{}".format(__name__))   # 打印当前模块的名字
 # 实例化对象,类名后面一定要加()
 # 实例化出来的对象拥有这个类中所有的变量和方法
 xiaohua = Person("说明")
