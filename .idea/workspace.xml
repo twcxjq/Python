@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e0ff46d-8e1e-48a2-88da-b19b4574fde4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day5_20210602/py_extend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6_20210603/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6_20210603/homework_tcj_20210603.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6_20210603/mindan.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6_20210603/py_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6_20210603/py_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6_20210603/py_mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6_20210603/py_one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6_20210603/py_read_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6_20210603/team.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7_20210604/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7_20210604/py_io.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7_20210604/py_mk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7_20210604/py_os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7_20210604/py_practise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7_20210604/py_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7_20210604/py_yc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package/mk_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package/mk_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package_Diao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package_Diao/py_diao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1_20210527/hello_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1_20210527/hello_python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day5_20210602/py_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5_20210602/py_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5_20210602/py_extend.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5_20210602/py_extend.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +26,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day7_20210604/py_os.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#319#328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,13 +84,28 @@
         <option value="$PROJECT_DIR$/Day5_20210602/homework_tcj_20210602.py" />
         <option value="$PROJECT_DIR$/Day1_20210527/hello_python.py" />
         <option value="$PROJECT_DIR$/Day6_20210603/py_one.py" />
-        <option value="$PROJECT_DIR$/Day5_20210602/py_class.py" />
-        <option value="$PROJECT_DIR$/Day5_20210602/py_extend.py" />
         <option value="$PROJECT_DIR$/Day6_20210603/py_mysql.py" />
         <option value="$PROJECT_DIR$/Day6_20210603/py_read_csv.py" />
         <option value="$PROJECT_DIR$/Day6_20210603/py_excel.py" />
         <option value="$PROJECT_DIR$/Day6_20210603/py_class.py" />
         <option value="$PROJECT_DIR$/Day6_20210603/homework_tcj_20210603.py" />
+        <option value="$PROJECT_DIR$/Day7_20210604/py_io.py" />
+        <option value="$PROJECT_DIR$/Day7_20210604/py_practise.py" />
+        <option value="$PROJECT_DIR$/Day5_20210602/py_class.py" />
+        <option value="$PROJECT_DIR$/Day5_20210602/py_extend.py" />
+        <option value="$PROJECT_DIR$/Day7_20210604/py_yc.py" />
+        <option value="$PROJECT_DIR$/Day7_20210604/py_time.py" />
+        <option value="$PROJECT_DIR$/Day7_20210604/py_mk.py" />
+        <option value="$PROJECT_DIR$/package/mk_1.py" />
+        <option value="$PROJECT_DIR$/package/mk_2.py" />
+        <option value="$PROJECT_DIR$/package_1/mk_1.py" />
+        <option value="$PROJECT_DIR$/package_1/mk_2.py" />
+        <option value="$PROJECT_DIR$/Package/mk_2.py" />
+        <option value="$PROJECT_DIR$/Package/mk_1.py" />
+        <option value="$PROJECT_DIR$/Package_Diao/__init__.py" />
+        <option value="$PROJECT_DIR$/Package/__init__.py" />
+        <option value="$PROJECT_DIR$/Package_Diao/py_diao.py" />
+        <option value="$PROJECT_DIR$/Day7_20210604/py_os.py" />
       </list>
     </option>
   </component>
@@ -90,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,24 +132,18 @@
             <path>
               <item name="python_29" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_29" type="462c0819:PsiDirectoryNode" />
-              <item name="Day5_20210602" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_29" type="462c0819:PsiDirectoryNode" />
-              <item name="Day6_20210603" type="462c0819:PsiDirectoryNode" />
+              <item name="Day7_20210604" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.homework_tcj_20210603">
+  <component name="RunManager" selected="Python.py_os">
     <configuration name="hello_python" type="PythonConfigurationType" factoryName="Python">
       <module name="python_29" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_tcj_20210603" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="py_diao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_29" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6_20210603" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Package_Diao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6_20210603/homework_tcj_20210603.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Package_Diao/py_diao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py_class (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="py_mk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_29" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6_20210603" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day7_20210604" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6_20210603/py_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7_20210604/py_mk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="py_os" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_29" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5_20210602" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day7_20210604" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5_20210602/py_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7_20210604/py_os.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py_one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="py_time" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_29" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6_20210603" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day7_20210604" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6_20210603/py_one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7_20210604/py_time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py_read_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="py_yc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_29" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6_20210603" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day7_20210604" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6_20210603/py_read_csv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7_20210604/py_yc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,19 +308,19 @@
     <list>
       <item itemvalue="Python.hello_python" />
       <item itemvalue="Python.homework_tcj_20210531" />
-      <item itemvalue="Python.py_class" />
-      <item itemvalue="Python.py_read_csv" />
-      <item itemvalue="Python.py_class (1)" />
-      <item itemvalue="Python.py_one" />
-      <item itemvalue="Python.homework_tcj_20210603" />
+      <item itemvalue="Python.py_yc" />
+      <item itemvalue="Python.py_time" />
+      <item itemvalue="Python.py_mk" />
+      <item itemvalue="Python.py_diao" />
+      <item itemvalue="Python.py_os" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.homework_tcj_20210603" />
-        <item itemvalue="Python.py_class (1)" />
-        <item itemvalue="Python.py_class" />
-        <item itemvalue="Python.py_one" />
-        <item itemvalue="Python.py_read_csv" />
+        <item itemvalue="Python.py_os" />
+        <item itemvalue="Python.py_diao" />
+        <item itemvalue="Python.py_mk" />
+        <item itemvalue="Python.py_time" />
+        <item itemvalue="Python.py_yc" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622613732032</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="python_29_Day5_20210603_提交">
+      <created>1622724140716</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1622724140716</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -421,8 +454,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -497,45 +531,10 @@
     <MESSAGE value="python_29_Day4_20210601_2" />
     <MESSAGE value="python_29_Day5_20210602" />
     <MESSAGE value="python_29_Day5_20210602_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="python_29_Day5_20210602_1" />
+    <MESSAGE value="python_29_Day5_20210603_提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="python_29_Day5_20210603_提交" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/keyword.py" />
-    <entry file="file://$PROJECT_DIR$/Day1_20210527/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1_20210527/homework_tcj_20210527.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_20210528/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_20210528/homework_tcj_20210528.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2241">
-          <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_20210528/py_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="151" column="34" selection-start-line="151" selection-start-column="34" selection-end-line="151" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-803413181/builtins.py" />
     <entry file="file://$PROJECT_DIR$/Day2_20210528/py_str.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-107">
@@ -654,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day5_20210602/py_variable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1498">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day5_20210602/homework_tcj_20210602.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -731,34 +723,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day6_20210603/py_read_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2187">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5_20210602/py_extend.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/pymysql/err.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="142" selection-start-line="142" selection-end-line="142" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day6_20210603/py_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-741">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="e#322#351#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -778,7 +746,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day6_20210603/py_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
+        <state relative-caret-position="364">
           <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
           <folding>
             <element signature="e#320#333#0" expanded="true" />
@@ -786,9 +754,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day7_20210604/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day6_20210603/homework_tcj_20210603.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
+        <state relative-caret-position="837">
           <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
           <folding>
             <element signature="e#335#364#0" expanded="true" />
@@ -796,10 +767,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day5_20210602/py_class.py">
+    <entry file="file://$PROJECT_DIR$/Day6_20210603/py_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#322#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="1528" column="8" selection-start-line="1528" selection-start-column="8" selection-end-line="1528" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6_20210603/py_read_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
-          <caret line="26" column="56" lean-forward="true" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5_20210602/py_variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5_20210602/py_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5_20210602/py_extend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7_20210604/py_yc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/time.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#90#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7_20210604/py_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="39" column="42" lean-forward="true" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+          <folding>
+            <element signature="e#321#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7_20210604/py_mk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package/mk_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package_Diao/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package/mk_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package_Diao/py_diao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7_20210604/py_io.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7_20210604/py_practise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7_20210604/py_os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#319#328#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

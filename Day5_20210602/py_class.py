@@ -12,8 +12,8 @@
 class Person:
     _height = 170   # 公用成员变量私有化   用_或者__
     __weight = 90  # 外部调用的时候，名字会被重命名: _类名__变量名
-    def __init__(self):
-        print("这个是构造方法")
+    def __init__(self, shuoming):
+        print("这个是构造方法{}".format(shuoming))
     def __del__(self):
         print("这个是析构方法")
     def _speak(self, like):    # 公用成员方法私有化   用_或者__
@@ -29,7 +29,7 @@ class Person:
 
 # 实例化对象,类名后面一定要加()
 # 实例化出来的对象拥有这个类中所有的变量和方法
-xiaohua = Person()
+xiaohua = Person("说明")
 print(xiaohua)
 # print(Person())
 xiaohua._speak("篮球")
